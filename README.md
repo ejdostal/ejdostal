@@ -9,16 +9,16 @@ Currently, I am working on honing my skills with data by improving past projects
 
 In 2023, I enrolled in the TripleTen 4-month Business Intelligence Analytics program. The curriculum covered advanced spreadsheets (Google Sheets), data visualization (Tableau, Power BI), SQL (Postgres), and more. It also involved numerous practical projects.
 
-During my learning journey, I also participated in a data hackathon in December 2023 where I worked with a team of analysts to gather relevant insights from data about parking violations from the Financial Department of New York. The project task was to gather relevant insights for a private parking company about their potential growth in New York and offer practical advice where possible. You can learn more about this and my other projects in my repositories!
+During my learning journey, I also participated in a data hackathon in December 2023 where I worked with a team of analysts to gather relevant insights from data about parking violations from the Financial Department of New York. The project task was to gather relevant insights for a private parking company about their potential growth in New York and offer practical advice where possible. You can learn more about this and my other projects in [my repositories](https://github.com/ejdostal/Data_projects_TripleTen)!
 
 
-Some facts about me:
+Some fun facts about me:
 
-- 💻  I enjoy participating in professional events, especially data hackathons, internships, and mentorships.
+- 💻 I love to learn and enjoy participating in professional events, especially data hackathons, internships, and mentorships.
 
-- 🐾 I love animals and have a large akkita-mix named Olaf. (Some people say he looks just like the dog from Dogecoin. 🐕 )
+- 🐾 I love animals and have a large akkita-mix named Olaf. (A lot of people tell me he looks like the dog from Dogecoin. 😂🐕 )
 
 - 🎯 My goals for 2024: landing my dream job in data. And building a second brain in Notion!
 
 
-Feel free to contact me on GitHub or LinkedIn! You can view my resume here.
+Feel free to contact me here or [LinkedIn](https://www.linkedin.com/in/erica-dostal/)! You can view my resume here.
