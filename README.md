@@ -9,7 +9,7 @@ Currently, I am working on honing my skills with data by improving past projects
 
 In 2023, I enrolled in the TripleTen 4-month Business Intelligence Analytics program. The curriculum covered advanced spreadsheets (Google Sheets), data visualization (Tableau, Power BI), SQL (Postgres), and more. It also involved numerous practical projects.
 
-During my learning journey, I also participated in a data hackathon in December 2023 where I worked with a team of analysts to gather relevant insights from data about parking violations from the Financial Department of New York. The project task was to gather relevant insights for a private parking company about their potential growth in New York and offer practical advice where possible. You can learn more about [this and my other projects](https://github.com/ejdostal/Data_projects_TripleTen) in my repositories.
+During my learning journey, I also participated in a data hackathon in December 2023 where I worked with a team of analysts to gather relevant insights from data about parking violations from the Financial Department of New York. The project task was to gather relevant insights for a private parking company about their potential growth in New York and offer practical advice where possible. You can learn more about this and [my other projects](https://github.com/ejdostal/Data_projects_TripleTen) in my repositories.
 
 
 Some fun facts about me:
