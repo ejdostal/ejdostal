@@ -3,7 +3,7 @@
 <!--
 **ejdostal/ejdostal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Hi! I'm Erica, an aspiring business intelligence analyst with experience on more than 6 technical projects. My skills include business analytics, data visualization, storytelling, Google Sheets, SQL, Tableau, and Power BI. I am eager to leverage my data and visualization skills in the professional sphere to help drive growth and boost sales.
+Hi! I'm Erica, a business intelligence analyst with experience on more than 6 technical projects. My skills include business analytics, data visualization, storytelling, Google Sheets, SQL, Tableau, and Power BI. I am eager to leverage my data and visualization skills in the professional sphere to help drive growth and boost sales.
 
 Currently, I am working on honing my skills with data by improving past projects, exploring new ones, and participating in externships, internships and data hackathons. My experience in both teaching and graphic design has helped me develop my communication, analytical, creative, and problem-solving skills.
 
