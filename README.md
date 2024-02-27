@@ -21,4 +21,4 @@ Some fun facts about me:
 - 🎯 My goals for 2024: landing my dream job in data. And building a second brain in Notion!
 
 ]
-Feel free to contact me on [Github](https://github.com/ejdostal) or [LinkedIn](https://www.linkedin.com/in/erica-dostal/)! You can view my resume [here](https://drive.google.com/file/d/1UulCYZ_BAXTo4mp_ljfJVqwEU5VyXPGz/view?usp=sharing).
+Feel free to contact me on [Github](https://github.com/ejdostal) or [LinkedIn](https://www.linkedin.com/in/erica-dostal/)! You can view my resume [here](https://drive.google.com/file/d/1Xrgd_yp6i870EF5okmjJHIo3aM4YRCH3/view?usp=sharing).
