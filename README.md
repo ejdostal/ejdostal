@@ -1,4 +1,4 @@
-### Hey 👋, I'm Erica, an aspiring business intelligence analyst.
+### Hi 👋, I'm Erica and I'm a business intelligence analyst.
 
 <!--
 **ejdostal/ejdostal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
