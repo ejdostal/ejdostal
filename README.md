@@ -18,7 +18,7 @@ Some fun facts about me:
 
 - 🐾 I love animals and have a large akkita-mix named Olaf. (A lot of people tell me he looks like the dog from Dogecoin. 😂 🐕)
 
-- 🎯 My goals for 2024: landing my dream job in data. And building a second brain in Notion!
+- 🎯 My goals for 2025: landing my dream job in data. And building a second brain in Notion!
 
 
 Feel free to contact me on [Github](https://github.com/ejdostal) or [LinkedIn](https://www.linkedin.com/in/erica-dostal/)! You can view my [resume](https://drive.google.com/file/d/1eAWullh6jkPSLpm939jkA2rgf_IwOqOg/view?usp=sharing) here.
